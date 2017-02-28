@@ -5,5 +5,6 @@ version v1.0
 
 Hardware
 -----------
-![shell](./pics/pikorg.jpg
+sample gpio wiring
+![shell](./pics/piko_sample_wiring.png
 	
